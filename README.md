@@ -1,2 +1,1 @@
-# todo_sevlte
-POC: TODO with Svelte
+# POC: Yet another TODO List (Svelte)
